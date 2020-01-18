@@ -1,2 +1,0 @@
-pyTelegramBotAPI == 3.6.6
-translate == 3.5.0 
